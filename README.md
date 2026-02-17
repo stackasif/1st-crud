@@ -1,16 +1,59 @@
-# React + Vite
+# 🚀 React CRUD Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my first React project where I built a full CRUD (Create, Read, Update, Delete) application using React and Vite.
 
-Currently, two official plugins are available:
+The project uses JSONPlaceholder API to perform CRUD operations and Axios for handling HTTP requests.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🔥 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 📥 Fetch data from API
+- ➕ Add new post
+- ✏️ Update existing post
+- ❌ Delete post
+- 🔄 Real-time UI updates
+- 📡 API integration using Axios
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- React
+- Vite
+- JavaScript (ES6+)
+- Axios
+- JSONPlaceholder API
+- CSS
+
+---
+
+## 🌐 API Used
+
+JSONPlaceholder (Fake REST API for testing and prototyping)
+
+Example Endpoint:
+https://jsonplaceholder.typicode.com/posts
+
+---
+
+
+## 📷 Project Preview
+
+
+---
+
+## 🎯 What I Learned
+
+- How CRUD operations work
+- API integration in React
+- Using Axios for HTTP requests
+- Managing state with useState & useEffect
+- Component-based architecture
+
+---
+
+## 👨‍💻 Author
+
+Asif Ansari
+
