@@ -1,6 +1,9 @@
+# live-link
+https://1st-crud.vercel.app/
+
 # 🚀 React CRUD Application
 
-This is my first React project where I built a full CRUD (Create, Read, Update, Delete) application using React and Vite.
+This is my first crud project where I built a full CRUD (Create, Read, Update, Delete) application using React and Vite.
 
 The project uses JSONPlaceholder API to perform CRUD operations and Axios for handling HTTP requests.
 
